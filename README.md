@@ -22,7 +22,7 @@
 
 ---
 
-## `01` — Sobre mim
+## Sobre mim
 
 Sou estudante de **Licenciatura em Computação pelo Instituto Federal de Brasília (IFB)** e direciono minha trajetória para o desenvolvimento de software.
 
@@ -37,7 +37,7 @@ Minha experiência prática envolve projetos com tecnologias web e mobile, além
 - 🔧 Versionamento e organização de projetos com Git e GitHub.
 - 🚀 Em busca de oportunidades para evoluir profissionalmente na área de tecnologia.
 
-## `02` — Stack e ferramentas
+## Stack e ferramentas
 
 Tecnologias e ferramentas que utilizo ou estudo durante minha formação e desenvolvimento de projetos.
 
@@ -53,7 +53,7 @@ Tecnologias e ferramentas que utilizo ou estudo durante minha formação e desen
 
 </div>
 
-## `03` — Projetos em destaque
+## Projetos em destaque
 
 ### 📱 Meu Jogo
 
@@ -84,7 +84,7 @@ Projeto desenvolvido com o objetivo de facilitar a organização de jogadores, e
 
 </div>
 
-## `04` — Estatísticas e atividade
+## Estatísticas e atividade
 
 <div align="center">
 
